@@ -1,4 +1,4 @@
-FROM python:3.6.3
+FROM python:3.6.1
 
 RUN mkdir /Desktop/bittrexBot/
 COPY . /Desktop/bittrexBot/
